@@ -1,1 +1,2 @@
-hii i am linux ia m tetxting git commands...
+hello linux..
+linux and git hub cannected sucessesfully....!
